@@ -129,8 +129,8 @@
         "Keep the same bench area and same river-terrace geometry as the paired image.",
         "Sato must remain an unaware background figure stretching or standing near the bench, and must face the river or his own stretch rather than Sera or the incident."
       ],
-      "promptSuffix": "Create a covert surveillance-suppression image with Sera dominant near the terrace edge, interrupting a watcher with optics or recording gear. Keep Sato smaller in the background, stretching calmly and unaware.",
-      "negativePrompt": "Do not let the watcher resemble Sato. Do not make Sato notice anything."
+      "promptSuffix": "Create a covert terrace-abduction-intercept image with Sera dominant near the upper terrace edge, stopping a fake parent and fake jogger who are trying to rush down and stuff Sato into an empty stroller or mobility carrier. Keep Sato smaller in the background, stretching calmly and unaware.",
+      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato notice anything."
     },
     "scene-002-001-002-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -171,7 +171,7 @@
         "Keep the same concrete riverside steps, same retaining wall, and same spring light as the paired image.",
         "Sato must remain an unaware background figure pausing or turning back, and must not look toward Sera or the incident."
       ],
-      "promptSuffix": "Create a covert riverside-turnaround action image with Sera dominant as she disrupts observation gear or a spotter hidden above a modern embankment turnaround point. Use concrete steps, steel railings, retaining walls, cherry-blossom drift, and practical river infrastructure rather than any shrine or temple motifs. Keep Sato smaller in the background, simply taking a walking break and unaware.",
+      "promptSuffix": "Create a covert riverside-turnaround action image with Sera dominant as she stops a disguised grab team trying to seize Sato at the turnaround point and drag him into a blind spot. Use concrete steps, steel railings, retaining walls, cherry-blossom drift, and practical river infrastructure rather than any shrine or temple motifs. Keep Sato smaller in the background, simply taking a walking break and unaware.",
       "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato aware of the intervention. No shrine, temple, torii, prayer hall, engawa, tatami, or religious ornament."
     },
     "scene-002-002-002-sato": {
@@ -213,8 +213,8 @@
         "Keep the same bakery exterior, same paper bag continuity, and same morning neighborhood light as the paired image.",
         "Sato must remain an unaware background figure near the counter or window, and must not look toward Sera or the incident."
       ],
-      "promptSuffix": "Create a covert storefront action image with Sera dominant outside the bakery, stopping a tracker-planting watcher near bicycles, a curb, or a display board. Keep Sato smaller in the background inside or at the counter, unaware.",
-      "negativePrompt": "Do not let the watcher resemble Sato. Do not make Sato participate."
+      "promptSuffix": "Create a covert storefront action image with Sera dominant outside the bakery, stopping a snatch setup near bicycles, a curb, or a display board where attackers are trying to make Sato drop his breakfast and drag him into a side lane. Keep Sato smaller in the background inside or at the counter, unaware.",
+      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato participate."
     },
     "scene-003-001-002-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -255,8 +255,8 @@
         "Keep the same apartment exterior relationship, same balcony line, and same late-spring morning light as the paired image.",
         "Sato must remain an unaware background figure cooling down inside or at the balcony, and must face away from the incident or look out into open space rather than toward Sera."
       ],
-      "promptSuffix": "Create a restrained rooftop-or-opposite-building action image with Sera dominant as she cuts off lingering surveillance around the apartment block. Keep Sato smaller in the background, cooling down and unaware.",
-      "negativePrompt": "Do not let the watcher resemble Sato. Do not break the domestic calm."
+      "promptSuffix": "Create a restrained rooftop-or-opposite-building action image with Sera dominant as she cuts off a balcony-abduction setup around the apartment block, stopping attackers who are preparing a pole, line, or crossing route to snatch Sato during cooldown. Keep Sato smaller in the background, cooling down and unaware.",
+      "negativePrompt": "Do not let any attacker resemble Sato. Do not break the domestic calm."
     },
     "scene-003-002-002-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -276,11 +276,11 @@
         "This is the Sera-part of the same breakfast-finale incident as scene-003-002-002-sato.",
         "Keep the same apartment exterior relationship and same bright morning calm as the paired image.",
         "Sato must remain an unaware background figure inside with bread and coffee, and must keep his attention on the table or window light rather than the incident.",
-        "Sera must keep her gaze on the final tail or escape path, never toward the camera.",
+        "Sera must keep her gaze on the final intruder or escape path, never toward the camera.",
         "The setting must read as the narrow service lane and rear facade of a modern Tokyo apartment building, not a detached house yard."
       ],
-      "promptSuffix": "Create a restrained final-tail action image with Sera dominant in a narrow service alley behind a modern mid-rise Tokyo apartment block, stopping the last watcher before withdrawal. Show rear apartment windows, exterior corridors or service doors, utility piping, and tight urban spacing rather than a yard or detached-house exterior. Keep Sato small inside a bright apartment room with breakfast, unaware and content. Sera must not look toward the camera.",
-      "negativePrompt": "Do not let the final watcher resemble Sato. Do not show Sato helping, noticing, or making eye contact. Do not make Sera look toward the camera or viewer. No detached house, no fenced yard, no porch, no suburban driveway, no private garden."
+      "promptSuffix": "Create a restrained final-intrusion-stop image with Sera dominant in a narrow service alley behind a modern mid-rise Tokyo apartment block, stopping the last operative before he can slip inside and remove Sato from the building. Show rear apartment windows, exterior corridors or service doors, utility piping, and tight urban spacing rather than a yard or detached-house exterior. Keep Sato small inside a bright apartment room with breakfast, unaware and content. Sera must not look toward the camera.",
+      "negativePrompt": "Do not let the final attacker resemble Sato. Do not show Sato helping, noticing, or making eye contact. Do not make Sera look toward the camera or viewer. No detached house, no fenced yard, no porch, no suburban driveway, no private garden."
     }
   }
 }
