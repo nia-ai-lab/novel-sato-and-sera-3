@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-001-002-002-sato",
+  "title": "第2節　テラスの給水機",
+  "chapterTitle": "第1章　朝の河畔",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:38:29.681Z",
+  "output": "project/assets/episodes/scene-001-002-002-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-001-002-002-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same terrace-hydration incident as scene-001-002-002-sera.",
+    "Keep the same river terrace, same vending machine or drink stand, and same petal-strewn pavement in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第1章　朝の河畔 / 第2話　川風に乗る. Scene focus: 第2節　テラスの給水機 / サトーパート. Summary: 橋を渡り切ったあたりで、喉の渇きがちょうど意識へ上がってきた。河川テラスに下りると、自動販売機とベンチが並ぶ小さな休憩スペースがある。サトーはそこで一度だけ歩幅をゆるめ、スポー… Key beats: 橋を渡り切ったあたりで、喉の渇きがちょうど意識へ上がってきた。河川テラスに下りると、自動販売機とベンチが並ぶ小さな休憩スペースがある。サトーはそこで一度だけ歩幅をゆるめ、スポーツドリンクを買うことにした。汗はまだ多すぎないが、こういう補給を雑にすると後半の脚がきれいに鈍る。 自動販売機の前でボタンを押し、出てきたボトルを手に取る。冷えすぎていない。春先の朝にはそのくらいがありがたい。キャップを開けてひと口飲むと、身体の内側がすっと落ち着いた。河川テラスには、走らない人の朝もある。ベンチで新聞を読む老人、犬の水入れを整える人、出勤前に缶コーヒーを飲む会社員。その混ざり方が妙に好きだった。 サトーはジャケットのファスナーをさらに少し下げ、肩甲骨を開くように腕を回した。ここで止まりすぎると再び走り出すのが面倒になるから、休憩は短く、でも雑にしすぎない。その加減も年々うまくなってきた気がする。 ベンチの背越しに見える川面は、もう朝の白さより銀色に近い。風はまだあるが、寒さとしては感じなくなってきた。走りの身体がようやく出来上がってきた証拠だろう。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same terrace-hydration incident as scene-001-002-002-sera. Keep the same river terrace, same vending machine or drink stand, and same petal-strewn pavement in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Show a quiet riverside terrace break with Sato dominant buying or holding a sports drink, shoulders loosened, spring jog atmosphere relaxed and believable. If Sera appears, place her clearly apart from Sato near benches, pillars, or the terrace edge, distant but readable, never adjacent and never companion-like.",
+  "responseTexts": []
+}

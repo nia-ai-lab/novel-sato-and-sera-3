@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-003-001-001-sera",
+  "title": "第1節　焼きたての紙袋",
+  "chapterTitle": "第3章　朝を持ち帰る",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:42:08.046Z",
+  "output": "project/assets/episodes/scene-003-001-001-sera.webp",
+  "rawOutput": "project/assets/episodes/scene-003-001-001-sera.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sera-part of the same bakery-stop incident as scene-003-001-001-sato.",
+    "Keep the same bakery exterior, same paper bag continuity, and same morning neighborhood light as the paired image.",
+    "Sato must remain an unaware background figure near the counter or window, and must not look toward Sera or the incident."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第3章　朝を持ち帰る / 第1話　朝食を持って帰る. Scene focus: 第1節　焼きたての紙袋 / セラパート. Summary: ベーカリーの向かいでは、自転車を押した男が店先のメニュー看板へ寄りかかり、紙袋を受け取った客の手元ばかりを見ていた。狙いはバッグそのものではない。帰路の持ち物へ小型の追跡子を滑… Key beats: ベーカリーの向かいでは、自転車を押した男が店先のメニュー看板へ寄りかかり、紙袋を受け取った客の手元ばかりを見ていた。狙いはバッグそのものではない。帰路の持ち物へ小型の追跡子を滑り込ませ、住宅街まで尾を取るつもりなのだろう。朝食の紙袋を利用する発想は、仕事として品がなさすぎる。 セラは店の脇道から角度を取り、男の視線の固定を見た。可愛らしいメイド風ジョギングウェアは、通勤前の街では少し目立つ。それでもランナーにしか見えない速度と姿勢を保てば、人は案外記憶しない。彼女は紙袋とサトーの進路を一瞥し、そのまま自転車の側面へ滑り込んだ。 「朝食に発信器を入れるのは、かなり下品です」 男の指先から小さな金属片が落ちる前に、セラの手がその手首を返した。自転車のハンドルへ重心が流れ、声を上げる暇が消える。膝で太腿を抜き、肩口へ一撃。男はメニュー看板の陰へ崩れ、自転車はスタンドのまま静かに揺れただけだった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sera-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sera-part of the same bakery-stop incident as scene-003-001-001-sato. Keep the same bakery exterior, same paper bag continuity, and same morning neighborhood light as the paired image. Sato must remain an unaware background figure near the counter or window, and must not look toward Sera or the incident. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a covert storefront action image with Sera dominant outside the bakery, stopping a tracker-planting watcher near bicycles, a curb, or a display board. Keep Sato smaller in the background inside or at the counter, unaware.",
+  "responseTexts": []
+}

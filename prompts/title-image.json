@@ -1,0 +1,19 @@
+{
+  "spec": {
+    "globalPrompt": "Create a photorealistic cinematic illustration for a modern web novel. Keep lighting, materials, anatomy, and faces grounded in live-action realism. Maintain a unified realistic visual language across all generated assets.",
+    "globalNegativePrompt": "anime, manga, cel shading, cartoon, illustration with flat shading, text, logo, watermark, collage, split panel, deformed anatomy, low detail face, extra limbs",
+    "fixedWidth": 1440,
+    "fixedHeight": 2304
+  },
+  "titleImage": {
+    "id": "title-cover",
+    "model": "gemini-3.1-flash-image-preview",
+    "outputDir": "project/assets/title",
+    "referenceImages": [
+      "project/assets/characters/sato-jogging.png",
+      "project/assets/characters/sera-jogging.png"
+    ],
+    "prompt": "Create a stylish vertical cover for a modern Japanese spy slice-of-life novel set on a Tokyo riverside jogging course in early April. Show Sato as the clear foreground subject running along a cherry-blossom-lined embankment, relaxed and slightly pleased with the morning, with mature rugged presence, long ponytail, mustache and chin beard, lean athletic build, and early-April jogging wear: a light running jacket, performance long-sleeve top, tapered running pants, and running shoes. Match his canonical face and body closely to the portrait reference. In the mid-background or slightly offset behind him, show Sera secretly parallel-running as a vigilant protector. Match her canonical face, silver-gray hair, golden eyes, and cat ears closely, but place her in a cute maid-inspired jogging outfit built from black-and-white technical fabrics: apron-line vest details, short pleated running skirt over leggings, lightweight running jacket, and running shoes. Her cat-ear headband support unit must be clearly present. Keep the first impression elegant, breezy, protected, and asymmetrical: Sato enjoying the run in front, Sera guarding from behind, no shared pose. Add drifting cherry petals and a believable urban river setting. Do not place any readable text or logo inside the image.",
+    "negativePrompt": "avoid generic sports-poster layout, avoid making Sato look young, avoid making Sato clean-shaven or short-haired, avoid turning Sera into a cosplay pin-up, avoid turning Sera's outfit into armor or a classic indoor maid dress, avoid putting Sera shoulder-to-shoulder with Sato as a jogging companion, avoid face-to-face interaction between Sato and Sera, avoid visible guns, knives, swords, or open combat poses, avoid real company logos or readable signage"
+  }
+}

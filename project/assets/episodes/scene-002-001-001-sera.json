@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-002-001-001-sera",
+  "title": "第1節　川面を見下ろすベンチ",
+  "chapterTitle": "第2章　桜の折り返し",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:39:09.469Z",
+  "output": "project/assets/episodes/scene-002-001-001-sera.webp",
+  "rawOutput": "project/assets/episodes/scene-002-001-001-sera.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sera-part of the same bench-stretch incident as scene-002-001-001-sato.",
+    "Keep the same bench area and same river-terrace geometry as the paired image.",
+    "Sato must remain an unaware background figure stretching or standing near the bench, and must face the river or his own stretch rather than Sera or the incident."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第2章　桜の折り返し / 第1話　朝のリズムが整う. Scene focus: 第1節　川面を見下ろすベンチ / セラパート. Summary: 同じころ、河川テラスの二階部分では、望遠レンズを付けた小型カメラがベンチ方向へ向けられていた。扱っているのはジョガー用ウインドブレーカーを着た男と、ベビーカーを押すふりをした女… Key beats: 同じころ、河川テラスの二階部分では、望遠レンズを付けた小型カメラがベンチ方向へ向けられていた。扱っているのはジョガー用ウインドブレーカーを着た男と、ベビーカーを押すふりをした女。狙いはサトーの歩幅と呼吸のリズム、そのわずかな乱れ方を蓄積することにある。生体情報を欲しがる連中は、こういう何気ない休止の癖まで拾いたがる。 セラは階段の手前で歩幅を緩め、猫耳カチューシャ型の警護支援ユニットが返す光学ノイズを頼りにテラス上段を見た。朝の生活に擬態するつもりなら、レンズの向きだけはもう少し上手く隠すべきだった。 「息を整える時間まで、測定対象にしないでください」 彼女は階段を一気に駆け上がり、ベビーカーの持ち手へ手をかけた。押し込まれた女の重心がずれ、その隙に男のカメラだけが奪われる。レンズは欄干の内側へ回収し、データカードはジャケットの裾へ滑り込ませた。男が肩から突っ込んできたところへ、セラの肘が鎖骨の下へ入る。呼吸を止め、足を止め、意識を止める。必要なのはそこまでで十分だった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sera-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sera-part of the same bench-stretch incident as scene-002-001-001-sato. Keep the same bench area and same river-terrace geometry as the paired image. Sato must remain an unaware background figure stretching or standing near the bench, and must face the river or his own stretch rather than Sera or the incident. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a covert surveillance-suppression image with Sera dominant near the terrace edge, interrupting a watcher with optics or recording gear. Keep Sato smaller in the background, stretching calmly and unaware.",
+  "responseTexts": []
+}

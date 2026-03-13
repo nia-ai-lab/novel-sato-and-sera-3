@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-001-002-001-sato",
+  "title": "第1節　朝霧橋の上",
+  "chapterTitle": "第1章　朝の河畔",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:37:44.189Z",
+  "output": "project/assets/episodes/scene-001-002-001-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-001-002-001-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same bridge incident as scene-001-002-001-sera.",
+    "Keep the same urban bridge, same river angle, and same cool spring wind mood in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第1章　朝の河畔 / 第2話　川風に乗る. Scene focus: 第1節　朝霧橋の上 / サトーパート. Summary: 走り始めてしばらくすると、身体の内側からようやく熱が上がってきた。白鷺川はこの先で大きく蛇行し、その角をまたぐ朝霧橋へ出る。橋へ上がるスロープは少し長いが、傾斜がきつすぎないぶ… Key beats: 走り始めてしばらくすると、身体の内側からようやく熱が上がってきた。白鷺川はこの先で大きく蛇行し、その角をまたぐ朝霧橋へ出る。橋へ上がるスロープは少し長いが、傾斜がきつすぎないぶん、リズムを崩さずに脚を使える。サトーは呼吸をふたつ深く入れ、足音の間隔を少しだけ狭めた。 橋の上へ出ると、風は河川敷より一段冷たかった。けれど不快ではない。火照りはじめた頬へ当たると、むしろちょうどいい。欄干の向こうには、朝日を受けた川が長く伸びている。対岸の桜もこちら側より少し遅れて散りはじめたらしく、水際だけがところどころ白く曇って見えた。 サトーは目線を落としすぎないようにして、橋の中央まで素直に走る。景色のいい場所では、つい足が止まりそうになるが、止まらずに通り抜けるからこそ走っている意味がある気もする。スロープを上る脚の張りも、橋の上で風を受ける気分も、朝の運動としては申し分なかった。 すれ違う自転車のベルが一度だけ鳴り、橋の継ぎ目が靴裏に短く返る。都会の橋なのに、朝だけは妙に個人的な場所のように感じられるのが不思議だった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same bridge incident as scene-001-002-001-sera. Keep the same urban bridge, same river angle, and same cool spring wind mood in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Compose a breezy bridge-running moment with Sato dominant on an urban river bridge, rising morning light, open sky, and a sense of naturally increased pace. If Sera appears, place her well separated from Sato near stairs or maintenance shadows, distant but still readable as a person, never tiny and never companion-like.",
+  "responseTexts": []
+}

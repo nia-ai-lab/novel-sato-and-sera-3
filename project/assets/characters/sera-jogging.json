@@ -1,0 +1,18 @@
+{
+  "characterId": "sera-jogging",
+  "name": "セラ",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:04:12.911Z",
+  "output": "project/assets/characters/sera-jogging.png",
+  "rawOutput": "project/assets/characters/sera-jogging.raw.png",
+  "referenceImage": "project/assets/characters/sera.png",
+  "fixedSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "prompt": "Create a photorealistic cinematic full-body character portrait for a modern web novel. Preserve silhouette clarity, costume readability, realistic anatomy, realistic fabric texture, and a consistent live-action visual language shared with all other generated assets.\nFull-body portrait of Sera for this specific jogging novel. Preserve the exact face, silver-gray hair, golden eyes, cat-ear support unit, and disciplined expression from the supplied canonical portrait. Redesign only the clothing into a cute maid-inspired jogging outfit made from realistic black-and-white technical fabrics: a light running jacket, apron-line vest details, fitted performance top, short pleated running skirt over leggings, proper running shoes, and a clearly visible cat-ear headband support-security unit. She must feel elegant, dangerous, swift, and quietly affectionate. The outfit must read first as functional jogging wear with maid design cues, not cosplay and not armor.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be center-cropped to 1080x1920. Keep the face, silhouette, and signature costume details near the center with safe margins.\nNegative prompt: anime, manga, cel shading, cartoon, text, logo, watermark, deformed anatomy, extra limbs, duplicate body parts, cropped head, doll-like face, oversexualized maid, tactical armor, combat bodysuit, sci-fi combat suit, comedy chibi style, soft helpless expression, anime heroine look, doll face, exaggerated frills, giant visible weapons, indoor maid dress, generic tracksuit",
+  "sourceRefs": [
+    "project/02_characters.md"
+  ],
+  "responseTexts": []
+}

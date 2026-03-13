@@ -1,0 +1,34 @@
+{
+  "spec": {
+    "globalPrompt": "Create a photorealistic cinematic full-body character portrait for a modern web novel. Preserve silhouette clarity, costume readability, realistic anatomy, realistic fabric texture, and a consistent live-action visual language shared with all other generated assets.",
+    "globalNegativePrompt": "anime, manga, cel shading, cartoon, text, logo, watermark, deformed anatomy, extra limbs, duplicate body parts, cropped head, doll-like face",
+    "fixedWidth": 1080,
+    "fixedHeight": 1920,
+    "outputDir": "project/assets/characters",
+    "defaultModel": "gemini-3.1-flash-image-preview"
+  },
+  "characters": [
+    {
+      "id": "sato-jogging",
+      "name": "サトー",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Full-body portrait of Sato for this specific jogging novel. Preserve the exact face, hair, beard, age, and body impression from the supplied canonical portrait: a 45-year-old Japanese man, slightly tall, lean athletic build, long black hair tied back in a ponytail, mustache and chin beard, thoughtful rugged face. Redesign only the clothing into realistic early-April jogging wear for a cool Tokyo morning: light running jacket or windbreaker, technical long-sleeve top, tapered running pants, quality running shoes, sports watch, and a minimal running pouch if needed. He should feel calm, masculine, lived-in, practical, and naturally cool rather than sporty in a flashy way.",
+      "negativePrompt": "young idol look, clean-shaven face, short hair, exaggerated bodybuilder muscles, flashy racing outfit, sleeveless summer wear, fantasy weapons, anime pretty-boy look, denim, leather boots, casual streetwear",
+      "referenceImage": "project/assets/characters/sato.png",
+      "sourceRefs": [
+        "project/02_characters.md"
+      ]
+    },
+    {
+      "id": "sera-jogging",
+      "name": "セラ",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Full-body portrait of Sera for this specific jogging novel. Preserve the exact face, silver-gray hair, golden eyes, cat-ear support unit, and disciplined expression from the supplied canonical portrait. Redesign only the clothing into a cute maid-inspired jogging outfit made from realistic black-and-white technical fabrics: a light running jacket, apron-line vest details, fitted performance top, short pleated running skirt over leggings, proper running shoes, and a clearly visible cat-ear headband support-security unit. She must feel elegant, dangerous, swift, and quietly affectionate. The outfit must read first as functional jogging wear with maid design cues, not cosplay and not armor.",
+      "negativePrompt": "oversexualized maid, tactical armor, combat bodysuit, sci-fi combat suit, comedy chibi style, soft helpless expression, anime heroine look, doll face, exaggerated frills, giant visible weapons, indoor maid dress, generic tracksuit",
+      "referenceImage": "project/assets/characters/sera.png",
+      "sourceRefs": [
+        "project/02_characters.md"
+      ]
+    }
+  ]
+}

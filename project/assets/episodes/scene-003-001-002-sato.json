@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-003-001-002-sato",
+  "title": "第2節　帰り坂の呼吸",
+  "chapterTitle": "第3章　朝を持ち帰る",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:42:45.130Z",
+  "output": "project/assets/episodes/scene-003-001-002-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-003-001-002-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same return-slope incident as scene-003-001-002-sera.",
+    "Keep the same residential slope, same apartment approach, and same bakery bag in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第3章　朝を持ち帰る / 第1話　朝食を持って帰る. Scene focus: 第2節　帰り坂の呼吸 / サトーパート. Summary: ベーカリーからマンションまでは、なだらかな上り坂が続いている。走り終わりのクールダウンにはちょうどいい傾斜だ。サトーはコーヒーをこぼさないように歩幅を少しだけ狭め、肩の力を抜い… Key beats: ベーカリーからマンションまでは、なだらかな上り坂が続いている。走り終わりのクールダウンにはちょうどいい傾斜だ。サトーはコーヒーをこぼさないように歩幅を少しだけ狭め、肩の力を抜いた。脚には疲れがある。だが嫌な重さではない。むしろ今朝ちゃんと動いたのだと確認できるくらいの張りが、心地よく残っていた。 住宅街の朝は、河川敷より生活の輪郭が近い。ゴミ出しへ出てきた人、植木鉢へ水をやる人、通学前の兄妹。誰もサトーに特別な関心は持たない。その無関心がありがたい。運動は本来、誰かに見せるためより、自分の朝を整えるためのものだろうと思う。 紙袋の中でパンが軽く動き、コーヒーの蓋から少しだけ湯気が漏れる。部屋へ戻ったらまずシューズを脱いで、水をもう一杯飲んで、軽くストレッチをしよう。それからコーヒーとパンに手をつければ完璧だ。段取りが頭の中で順番どおりに収まると、それだけで落ち着く。 マンションの階段のあたりでは、新聞配達員と管理会社の人らしい姿が、宅配ボックスの前でしゃがみ込んでいた。朝は設備まわりの小さな手間が重なるのだろう。自分の部屋の鍵さえ素直に開けば、それで十分だとサトーは思った。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same return-slope incident as scene-003-001-002-sera. Keep the same residential slope, same apartment approach, and same bakery bag in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Show a residential cooldown walk with Sato dominant climbing a gentle slope back toward his apartment, carrying a bakery bag and breathing down from the run. If Sera appears, place her clearly apart from Sato near side stairs, parked bikes, or entry shadows, distant but readable, never companion-like.",
+  "responseTexts": []
+}

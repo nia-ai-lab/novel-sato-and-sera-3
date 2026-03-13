@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-001-002-002-sera",
+  "title": "第2節　テラスの給水機",
+  "chapterTitle": "第1章　朝の河畔",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:38:16.726Z",
+  "output": "project/assets/episodes/scene-001-002-002-sera.webp",
+  "rawOutput": "project/assets/episodes/scene-001-002-002-sera.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sera-part of the same terrace-hydration incident as scene-001-002-002-sato.",
+    "Keep the same terrace, same hydration corner, and same spring lighting as the paired image.",
+    "Sato must remain an unaware background figure taking a break and must not look toward the incident."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第1章　朝の河畔 / 第2話　川風に乗る. Scene focus: 第2節　テラスの給水機 / セラパート. Summary: その自動販売機の裏側では、保守員のベストを着た男が飲料投入口の脇へ小さな接触器具を仕込もうとしていた。狙いは飲料そのものではなく、ボトルを拾う瞬間の手元を乱し、足元の転倒補助へ… Key beats: その自動販売機の裏側では、保守員のベストを着た男が飲料投入口の脇へ小さな接触器具を仕込もうとしていた。狙いは飲料そのものではなく、ボトルを拾う瞬間の手元を乱し、足元の転倒補助へつなげる二段構えの工作だ。河川テラスの雑多な朝なら、機械の不具合に見せかけるのは難しくない。 セラはベンチの影からその手順を見て、眉をわずかに寄せた。休憩地点を荒らすのは、走りを守る任務のなかでもかなり印象が悪い。せっかく整った呼吸を壊されてはたまらない。 「補給くらい、普通にさせてください」 彼女はテラスの手すりを利用して一気に間合いへ入った。器具を持った指へ細い金具が弾かれ、男の手首が上を向く。その隙に肘を内側から返し、器具だけを回収する。もう一人、ベンチの横で通行人を装っていた男が腰を浮かせたが、セラの膝が先に太腿を抜いた。体勢を失ったところへ肩口へ一撃。ふたりはベンチの陰へ静かに沈み、朝の休憩スペースには新聞をめくる音だけが残る。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sera-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sera-part of the same terrace-hydration incident as scene-001-002-002-sato. Keep the same terrace, same hydration corner, and same spring lighting as the paired image. Sato must remain an unaware background figure taking a break and must not look toward the incident. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a covert river-terrace action image with Sera dominant as she stops tampering around a drink machine, trash can, or hydration point. Keep Sato smaller in the background holding his drink and unaware.",
+  "responseTexts": []
+}

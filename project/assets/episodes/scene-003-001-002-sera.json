@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-003-001-002-sera",
+  "title": "第2節　帰り坂の呼吸",
+  "chapterTitle": "第3章　朝を持ち帰る",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:42:42.122Z",
+  "output": "project/assets/episodes/scene-003-001-002-sera.webp",
+  "rawOutput": "project/assets/episodes/scene-003-001-002-sera.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sera-part of the same return-slope incident as scene-003-001-002-sato.",
+    "Keep the same residential slope, same apartment approach, and same late-morning spring light as the paired image.",
+    "Sato must remain an unaware background figure heading uphill and must not turn toward the incident."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第3章　朝を持ち帰る / 第1話　朝食を持って帰る. Scene focus: 第2節　帰り坂の呼吸 / セラパート. Summary: そのマンション前の階段では、管理会社の腕章をつけた男と、新聞配達員に見える若い男が待ち構えていた。ひとりはエントランスのオートロックに細工をし、もうひとりは紙袋を持った帰宅直後… Key beats: そのマンション前の階段では、管理会社の腕章をつけた男と、新聞配達員に見える若い男が待ち構えていた。ひとりはエントランスのオートロックに細工をし、もうひとりは紙袋を持った帰宅直後の動きを封じる役だ。河川敷からここまで追ってきたわけではない。最初から帰りの地点として割り切っていたのだろう。 セラは向かいの駐輪場の影から、その位置取りを見て鼻先だけで息を吐いた。最後の数分を荒らす手際としては悪くない。だが、悪くない程度では任務の相手にならない。 「帰り坂の呼吸まで邪魔しないでください」 彼女は駐輪場のラックを踏み台にし、上段から新聞配達員役の背後へ落ちた。肩を落とし、首を払う。音は出ない。次いでオートロックへ手を伸ばしていた男の肘を引き、指先に挟まれた工具だけを奪う。体勢を崩したところへ壁と膝で挟み込み、呼吸を止める。二人は階段脇の宅配ボックスの影へ沈み、遠目にはただ荷物を待つ住人のように見えた。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sera-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sera-part of the same return-slope incident as scene-003-001-002-sato. Keep the same residential slope, same apartment approach, and same late-morning spring light as the paired image. Sato must remain an unaware background figure heading uphill and must not turn toward the incident. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a covert residential access action image with Sera dominant, stopping an approach team around stairs, railings, or an apartment entrance while still dressed like a believable runner. Keep Sato smaller in the background walking uphill and unaware.",
+  "responseTexts": []
+}

@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-002-002-001-sato",
+  "title": "第1節　水神社の石段",
+  "chapterTitle": "第2章　桜の折り返し",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:40:16.331Z",
+  "output": "project/assets/episodes/scene-002-002-001-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-002-002-001-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same turnaround-shrine incident as scene-002-002-001-sera.",
+    "Keep the same small waterside shrine steps and same spring light in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第2章　桜の折り返し / 第2話　折り返して戻る. Scene focus: 第1節　水神社の石段 / サトーパート. Summary: 白鷺川の中流域には、土手の脇へ小さな水神社がひっそり残っている。石段は高くないが、ランニングコースの区切りとしてちょうどいい位置にあった。サトーはそこでいったん歩きへ切り替え、… Key beats: 白鷺川の中流域には、土手の脇へ小さな水神社がひっそり残っている。石段は高くないが、ランニングコースの区切りとしてちょうどいい位置にあった。サトーはそこでいったん歩きへ切り替え、呼吸を落ち着けながら手水鉢のそばまで進む。境内に桜は多くないが、そのぶん静かで、河川敷の風音だけがよく通った。 走りの折り返し地点には、こういう小さな区切りが欲しい。タイムを詰めたいわけでもなく、距離を厳密に測りたいわけでもない。ただ、ここから戻るという目印があると、朝の時間に輪郭が出る。サトーは石段の下でジャケットの結び目を直し、肩で息をするほどではない自分の状態に軽く満足した。 社の屋根越しに見える空は、さっきより少し明るい。走り出したころの青みは抜け、日中へ向かう色へ変わりつつある。今日はこのまま対岸を戻って、最後にベーカリーへ寄ろう。そんな段取りが自然に浮かぶのも、朝がうまく進んでいる証拠だった。 社の裏から、金属が石へ当たるような小さな音がひとつ聞こえた。測量か点検でもしているのかもしれない。河川敷の脇には、こういう地味な手入れが意外と多いのだろうとサトーは気に留めず息を整えた。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same turnaround-shrine incident as scene-002-002-001-sera. Keep the same small waterside shrine steps and same spring light in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Compose a quiet turnaround moment with Sato dominant near a small riverside shrine or stone steps, walking briefly and deciding to head back with a settled expression. If Sera appears, place her clearly apart from Sato among trees, shrine walls, or the upper path, distant but readable, never companion-like.",
+  "responseTexts": []
+}

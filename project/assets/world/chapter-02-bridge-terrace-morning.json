@@ -1,0 +1,10 @@
+{
+  "id": "chapter-02-bridge-terrace-morning",
+  "name": "橋と河川テラス",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T12:38:36.966Z",
+  "output": "project/assets/world/chapter-02-bridge-terrace-morning.webp",
+  "rawOutput": "project/assets/world/chapter-02-bridge-terrace-morning.raw.png",
+  "prompt": "Create a photorealistic cinematic environment image for a modern web novel. Emphasize atmosphere, lighting, believable architecture, realistic materials, and a unified live-action visual language shared with all other generated assets. Refined Tokyo-like urban river terrace and bridge area in clear spring morning light, jogging path, benches, vending machine or hydration corner, breezy river surface, petals gathering along the pavement, realistic city infrastructure, cinematic depth, no close-up character posing. Final delivery will be cropped to 1440x2304. Keep the main focal area centered with safe margins. Negative prompt: anime, manga, cel shading, cartoon, text, logo, watermark, character close-up, deformed architecture, low detail, crowded marathon event, dystopian cityscape, dramatic battle scene, fantasy bridge architecture",
+  "responseTexts": []
+}

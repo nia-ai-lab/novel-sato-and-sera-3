@@ -1,0 +1,24 @@
+{
+  "episodeId": "scene-002-001-002-sera",
+  "title": "第2節　花びらのトンネル",
+  "chapterTitle": "第2章　桜の折り返し",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:39:46.199Z",
+  "output": "project/assets/episodes/scene-002-001-002-sera.webp",
+  "rawOutput": "project/assets/episodes/scene-002-001-002-sera.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sera-part of the same blossom-tunnel incident as scene-002-001-002-sato.",
+    "Keep the same curved path, same blossom canopy, and same petal flow as the paired image.",
+    "Sato must remain an unaware background runner on the path and must keep his gaze along the route rather than toward the incident."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第2章　桜の折り返し / 第1話　朝のリズムが整う. Scene focus: 第2節　花びらのトンネル / セラパート. Summary: そのカーブの先では、立入禁止用の細いコーンを持った男が、遊歩道脇の枝から枝へ透明ワイヤーを張ろうとしていた。もう一人は一般ランナーのふりで少し先を流し、標的の視線を前へ向けたま… Key beats: そのカーブの先では、立入禁止用の細いコーンを持った男が、遊歩道脇の枝から枝へ透明ワイヤーを張ろうとしていた。もう一人は一般ランナーのふりで少し先を流し、標的の視線を前へ向けたまま脚だけを引っかける算段である。花びらが舞う場所ほど足元の違和感は見えにくい。狙いとしては理解できるが、理解できるだけで許されるわけではない。 セラは花びらの流れに逆らわない角度で身体を沈めた。黒白のメイド風ジョギングウェアは、近くで見れば可愛らしいのに、動いているあいだは線が鋭い。スカートの裾もレギンスも一度ももたつかない。彼女はそのままワイヤーの支点へ滑り込んだ。 「景色のいい場所ほど、普通に通らせるべきです」 まず支点を持つ男の指へ小さな針を打つ。握力だけが抜け、ワイヤーは張られる前に垂れた。次の瞬間、先行役のランナーの踵裏へセラの足が入り、進行方向だけが外へ流れる。転倒させるのではなく、ただ標的の走路から消す。そこへ肩口へ短い打撃を加えれば、もう十分だった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sera-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sera-part of the same blossom-tunnel incident as scene-002-001-002-sato. Keep the same curved path, same blossom canopy, and same petal flow as the paired image. Sato must remain an unaware background runner on the path and must keep his gaze along the route rather than toward the incident. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a covert path-protection action image with Sera dominant under the blossom canopy, stopping a wire trap and handler without breaking her running silhouette. Keep Sato smaller in the background, still running and unaware.",
+  "responseTexts": []
+}

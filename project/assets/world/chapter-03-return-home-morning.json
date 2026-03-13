@@ -1,0 +1,10 @@
+{
+  "id": "chapter-03-return-home-morning",
+  "name": "帰宅後の朝",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T12:39:15.189Z",
+  "output": "project/assets/world/chapter-03-return-home-morning.webp",
+  "rawOutput": "project/assets/world/chapter-03-return-home-morning.raw.png",
+  "prompt": "Create a photorealistic cinematic environment image for a modern web novel. Emphasize atmosphere, lighting, believable architecture, realistic materials, and a unified live-action visual language shared with all other generated assets. A calm Japanese residential neighborhood and apartment morning after a spring jog, bakery paper bag, balcony light, open window, subtle steam from coffee, everyday Tokyo atmosphere with gentle post-run satisfaction, realistic architecture and lived-in details. Final delivery will be cropped to 1440x2304. Keep the main focal area centered with safe margins. Negative prompt: anime, manga, cel shading, cartoon, text, logo, watermark, character close-up, deformed architecture, low detail, luxury penthouse fantasy, abandoned building, visible violence, exaggerated retro style",
+  "responseTexts": []
+}

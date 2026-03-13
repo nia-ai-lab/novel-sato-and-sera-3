@@ -1,0 +1,18 @@
+{
+  "characterId": "sato-jogging",
+  "name": "サトー",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T12:52:25.998Z",
+  "output": "project/assets/characters/sato-jogging.png",
+  "rawOutput": "project/assets/characters/sato-jogging.raw.png",
+  "referenceImage": "project/assets/characters/sato.png",
+  "fixedSize": {
+    "width": 1080,
+    "height": 1920
+  },
+  "prompt": "Create a photorealistic cinematic full-body character portrait for a modern web novel. Preserve silhouette clarity, costume readability, realistic anatomy, realistic fabric texture, and a consistent live-action visual language shared with all other generated assets.\nFull-body portrait of Sato for this specific jogging novel. Preserve the exact face, hair, beard, age, and body impression from the supplied canonical portrait: a 45-year-old Japanese man, slightly tall, lean athletic build, long black hair tied back in a ponytail, mustache and chin beard, thoughtful rugged face. Redesign only the clothing into realistic early-April jogging wear for a cool Tokyo morning: light running jacket or windbreaker, technical long-sleeve top, tapered running pants, quality running shoes, sports watch, and a minimal running pouch if needed. He should feel calm, masculine, lived-in, practical, and naturally cool rather than sporty in a flashy way.\nKeep the whole character visible within frame when possible, especially head, key costume details, hands, silhouette, and signature accessories.\nFinal delivery will be center-cropped to 1080x1920. Keep the face, silhouette, and signature costume details near the center with safe margins.\nNegative prompt: anime, manga, cel shading, cartoon, text, logo, watermark, deformed anatomy, extra limbs, duplicate body parts, cropped head, doll-like face, young idol look, clean-shaven face, short hair, exaggerated bodybuilder muscles, flashy racing outfit, sleeveless summer wear, fantasy weapons, anime pretty-boy look, denim, leather boots, casual streetwear",
+  "sourceRefs": [
+    "project/02_characters.md"
+  ],
+  "responseTexts": []
+}

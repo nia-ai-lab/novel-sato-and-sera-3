@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-001-001-002-sato",
+  "title": "第2節　桜吹雪の土手",
+  "chapterTitle": "第1章　朝の河畔",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:36:56.619Z",
+  "output": "project/assets/episodes/scene-001-001-002-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-001-001-002-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same riverside-start incident as scene-001-001-002-sera.",
+    "Keep the same cherry-blossom-lined embankment, same river, and same drifting petals in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第1章　朝の河畔 / 第1話　走る支度. Scene focus: 第2節　桜吹雪の土手 / サトーパート. Summary: 住宅街を二つほど曲がると、白鷺川の土手はすぐに見えてきた。朝日がまだ低いせいで、川面は白く、桜並木だけが柔らかく色を持っている。河川敷へ下りる坂を降りたところで、ちょうど風が一… Key beats: 住宅街を二つほど曲がると、白鷺川の土手はすぐに見えてきた。朝日がまだ低いせいで、川面は白く、桜並木だけが柔らかく色を持っている。河川敷へ下りる坂を降りたところで、ちょうど風が一本抜けた。満開を少し過ぎた花びらがまとめて舞い、遊歩道の上を薄い桃色の筋になって流れていく。 サトーは思わず口元をゆるめた。こういう景色は、見に行くものというより、走っているうちに向こうから勝手に来るくらいがちょうどいい。わざわざ花見の時間を取るほどではなくても、朝のジョギングコースに桜吹雪が混じっているだけで、一日ぶん得をしたような気になる。 最初の数百メートルは抑えめに入る。ジャケットの前を少しだけ開け、呼吸が浅くなりすぎない速度を探る。左には川、右には草の斜面、その向こうにマンションの列。都内の風景なのに、走っているあいだだけは妙に余白がある。白い花びらがシューズの先へまとわりついては離れ、また風にさらわれていった。 前方では犬を連れた人が歩き、反対側からは年配のランナーが二人ほど来る。誰も他人の朝へ踏み込みすぎない。その距離感が河川敷にはある。サトーは肩の力を抜いたまま、桜並木の続く土手へ自然にペースを乗せていった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same riverside-start incident as scene-001-001-002-sera. Keep the same cherry-blossom-lined embankment, same river, and same drifting petals in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Show Sato dominant running along a Tokyo-like riverside under a flurry of cherry blossoms, with spring petals streaking across the path and a strong sense of motion and fresh air. If Sera appears, place her clearly apart from Sato on another part of the path or near shadows or bridge pillars, distant but still human-readable, never companion-like.",
+  "responseTexts": []
+}

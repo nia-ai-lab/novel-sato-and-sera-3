@@ -1,0 +1,33 @@
+{
+  "spec": {
+    "globalPrompt": "Create a photorealistic cinematic environment image for a modern web novel. Emphasize atmosphere, lighting, believable architecture, realistic materials, and a unified live-action visual language shared with all other generated assets.",
+    "globalNegativePrompt": "anime, manga, cel shading, cartoon, text, logo, watermark, character close-up, deformed architecture, low detail",
+    "fixedWidth": 1440,
+    "fixedHeight": 2304,
+    "outputDir": "project/assets/world",
+    "defaultModel": "gemini-3.1-flash-image-preview"
+  },
+  "backgrounds": [
+    {
+      "id": "chapter-01-riverside-dawn",
+      "name": "桜吹雪の河川敷",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Quiet fictional Tokyo riverside jogging course in early April dawn, cherry blossoms at full bloom starting to scatter in the wind, long embankment path, soft blue morning light, urban bridges in the distance, believable Japanese river engineering, subtle sense that someone unseen is protecting an ordinary morning run. No main characters in close-up.",
+      "negativePrompt": "tourist festival crowd, fantasy sakura tunnel, overt combat, readable signs"
+    },
+    {
+      "id": "chapter-02-bridge-terrace-morning",
+      "name": "橋と河川テラス",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Refined Tokyo-like urban river terrace and bridge area in clear spring morning light, jogging path, benches, vending machine or hydration corner, breezy river surface, petals gathering along the pavement, realistic city infrastructure, cinematic depth, no close-up character posing.",
+      "negativePrompt": "crowded marathon event, dystopian cityscape, dramatic battle scene, fantasy bridge architecture"
+    },
+    {
+      "id": "chapter-03-return-home-morning",
+      "name": "帰宅後の朝",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "A calm Japanese residential neighborhood and apartment morning after a spring jog, bakery paper bag, balcony light, open window, subtle steam from coffee, everyday Tokyo atmosphere with gentle post-run satisfaction, realistic architecture and lived-in details.",
+      "negativePrompt": "luxury penthouse fantasy, abandoned building, visible violence, exaggerated retro style"
+    }
+  ]
+}

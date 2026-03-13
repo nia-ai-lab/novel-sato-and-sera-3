@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-003-001-001-sato",
+  "title": "第1節　焼きたての紙袋",
+  "chapterTitle": "第3章　朝を持ち帰る",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:41:52.216Z",
+  "output": "project/assets/episodes/scene-003-001-001-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-003-001-001-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same bakery-stop incident as scene-003-001-001-sera.",
+    "Keep the same neighborhood bakery frontage, same paper bag, and same post-run mood in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第3章　朝を持ち帰る / 第1話　朝食を持って帰る. Scene focus: 第1節　焼きたての紙袋 / サトーパート. Summary: 河川敷を離れて街区へ戻るころには、走りの気分はほとんど満足に近づいていた。もう少し距離を足してもよかったが、今日の朝に必要なのはたぶんこのくらいだろう。そう思えたときにきちんと… Key beats: 河川敷を離れて街区へ戻るころには、走りの気分はほとんど満足に近づいていた。もう少し距離を足してもよかったが、今日の朝に必要なのはたぶんこのくらいだろう。そう思えたときにきちんと切り上げるのも、気ままに走るには大事な技術だ。サトーは白鷺川沿いの小さなベーカリーへ入り、入口のガラス越しに並ぶパンを眺めた。 焼きたての匂いは、運動のあとの身体へ妙に素直に効く。惣菜パンにするか、甘いものを一つ混ぜるか、ほんの数秒だけ迷う。その迷い方まで気分がいい。サトーは結局、ハムとチーズの入った丸いパンと、小さなシナモンロール、それにテイクアウトのコーヒーを頼んだ。走った朝くらいはこの程度の甘さがあっていい。 会計を待つあいだ、ガラスに映る自分を見る。ジャケットは腰に巻いたままで、長袖トップスの肩口には少し汗が残っている。走ったあとの自分は、日常の延長にしては少しだけ整って見えた。それがなんだか可笑しい。 店先のガラス越しに、自転車を押した誰かがメニュー看板の前で少しよろけるのが見えた。縁石でも踏み外したのだろう。朝のパン屋の前は、案外みんな視線がショーケースへ持っていかれるのかもしれない。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same bakery-stop incident as scene-003-001-001-sera. Keep the same neighborhood bakery frontage, same paper bag, and same post-run mood in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Create a warm post-run bakery scene with Sato dominant receiving a paper bag and coffee, visibly satisfied with the morning jog but still dressed in jogging wear. If Sera appears, place her clearly apart from Sato outside the storefront or across the street, distant but readable, never companion-like.",
+  "responseTexts": []
+}

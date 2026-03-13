@@ -1,0 +1,23 @@
+{
+  "episodeId": "scene-002-002-002-sato",
+  "title": "第2節　反対岸の朝日",
+  "chapterTitle": "第2章　桜の折り返し",
+  "model": "gemini-3.1-flash-image-preview",
+  "generatedAt": "2026-03-13T13:41:10.630Z",
+  "output": "project/assets/episodes/scene-002-002-002-sato.webp",
+  "rawOutput": "project/assets/episodes/scene-002-002-002-sato.raw.png",
+  "referenceImages": [
+    "project/assets/characters/sato-jogging.png",
+    "project/assets/characters/sera-jogging.png"
+  ],
+  "referenceCharacterIds": [
+    "sato-jogging",
+    "sera-jogging"
+  ],
+  "continuityNotes": [
+    "This is the Sato-part of the same return-bank incident as scene-002-002-002-sera.",
+    "Keep the same opposite bank, same sun angle, and same river width in both images."
+  ],
+  "prompt": "Create one vertical smartphone-friendly scene illustration for a serial web novel. Do not render any readable text, chapter numbers, talk labels, section labels, captions, subtitles, logos, or UI overlays inside the image. Story context: 第2章　桜の折り返し / 第2話　折り返して戻る. Scene focus: 第2節　反対岸の朝日 / サトーパート. Summary: 戻りの土手へ入ると、朝日はもう川の真横からではなく、少し高い角度で差してきた。行きに見ていた景色と同じ場所のはずなのに、光の向きが違うだけで印象はずいぶん変わる。反対岸の桜は逆… Key beats: 戻りの土手へ入ると、朝日はもう川の真横からではなく、少し高い角度で差してきた。行きに見ていた景色と同じ場所のはずなのに、光の向きが違うだけで印象はずいぶん変わる。反対岸の桜は逆光で白っぽく見え、川面へ散った花びらは細い帯になって下流へ流れていた。 不思議なことに、身体は往路より軽かった。いちど温まってしまえば、あとは脚が勝手に回る。無理に速くする必要はないが、自然と歩幅が伸びる。サトーは胸の前で腕を小さく振り、呼吸を崩さないままその感覚を楽しんだ。運動の快感というより、身体が素直に動いてくれること自体がうれしい。 土手の上では小学生の親子がキャッチボールの準備をしていて、河川敷の端には作業車が止まっている。どれも朝の風景として自然で、だからこそ安心する。大げさな特別感はいらない。いつもの街に少しだけいい風が吹いている、それくらいが好ましかった。 少し先では、河川管理のワゴンが出しかけたコーンを慌てて引っ込めていた。点検の予定でも変わったのかもしれない。通れればそれで十分だと、サトーは朝日へ目を細めたまま歩幅を崩さなかった。 Use the supplied character reference images to preserve these canonical looks: sato-jogging: サトー. Keep him as a mature 45-year-old Japanese man with long hair tied in a ponytail, mustache and chin beard, and a lean athletic build. In this novel he must always wear cool-weather jogging clothes, never denim or businesswear. sera-jogging: セラ. Keep her in a maid-inspired running outfit rather than an indoor maid dress, with silver-gray hair, golden eyes, black-and-white technical fabrics, and a clearly visible cat-ear headband support-security unit. Do not turn the outfit into armor or a generic tracksuit. Focus characters: sato-jogging. Keep them clearly readable in the foreground or midground. Continuity notes: This is the Sato-part of the same return-bank incident as scene-002-002-002-sera. Keep the same opposite bank, same sun angle, and same river width in both images. In every scene of this novel, Sato must keep his canonical face, long ponytail, mustache, chin beard, and lean 45-year-old build, while wearing early-April jogging wear suited to a cool Tokyo morning: a light running jacket or windbreaker, technical long-sleeve top, tapered running pants, and running shoes. In every scene of this novel, Sera must keep her canonical face, silver-gray hair, golden eyes, and cat ears while wearing a cute maid-inspired jogging outfit built from black-and-white performance fabrics, with apron-line design cues, a short pleated running skirt over leggings, a light jacket, running shoes, and a visible cat-ear headband support-security unit. For Sato-part images, Sato must be the dominant subject and Sera, if visible, must stay clearly separated from him by distance, never adjacent, never shoulder-to-shoulder, and never readable as a companion; she may be visible in the distance or on another part of the path, but not as an extremely tiny speck. For Sera-part images, Sera must be the dominant subject, actively stopping a separate attacker who clearly does not resemble Sato. In every Sera-part image, Sato must remain an unaware background figure, non-combatant, not helping, facing away from the action or looking elsewhere, and not looking toward Sera, the attacker, or the incident. Never let any attacker resemble Sato in face, hair, beard, age, clothing, build, or silhouette. All human figures must have normal anatomy with exactly two arms and two hands.  Show Sato dominant on the return leg along the opposite bank, body lighter now, morning sun brighter, with a clear sense of enjoyable rhythm. If Sera appears, place her clearly apart from Sato near service lanes, levee edges, or distant runners, distant but readable, never companion-like.",
+  "responseTexts": []
+}
