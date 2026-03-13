@@ -1,7 +1,7 @@
 {
   "spec": {
     "globalPrompt": "Create one photorealistic cinematic scene image for a modern web novel. Keep the style consistent with the title, character, and background assets. Use realistic anatomy, realistic materials, grounded faces, and live-action-like lighting.",
-    "globalNegativePrompt": "anime, manga, cel shading, cartoon, text, readable letters, chapter labels, talk labels, section labels, subtitles, captions, logo, watermark, UI overlay, collage, split panel, multiple moments in one frame, deformed anatomy, extra limbs, duplicate body parts, malformed hands, direct eye contact with camera, looking at viewer, portrait-style posing for the viewer",
+    "globalNegativePrompt": "anime, manga, cel shading, cartoon, text, readable letters, chapter labels, talk labels, section labels, subtitles, captions, logo, watermark, UI overlay, collage, split panel, multiple moments in one frame, deformed anatomy, extra limbs, duplicate body parts, malformed hands, direct eye contact with camera, looking at viewer, portrait-style posing for the viewer, shrine, temple, torii gate, engawa, tatami, buddhist architecture, old wooden shrine bridge",
     "fixedWidth": 1080,
     "fixedHeight": 1920,
     "outputDir": "project/assets/episodes",
@@ -66,7 +66,7 @@
         "Sato must remain an unaware background runner and must face along his route rather than toward Sera or the attacker."
       ],
       "promptSuffix": "Create a covert riverside action image with Sera dominant on the same cherry-blossom embankment, intercepting a cyclist or runner infiltrator who is trying to cause a collision. Keep Sato smaller in the background, still enjoying his pace and unaware.",
-      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato aware of the danger."
+      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato aware of the danger. No shrine, temple, engawa, tatami, or traditional Japanese religious architecture."
     },
     "scene-001-002-001-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -87,7 +87,7 @@
         "Sato must remain an unaware background runner further along the bridge and must keep facing his route rather than the incident."
       ],
       "promptSuffix": "Create a tense bridge-stair action image with Sera dominant, stopping saboteurs around a stair landing or anti-slip surface while still visibly dressed for a spring run. Keep Sato smaller in the background, simply running onward and unaware.",
-      "negativePrompt": "Do not let attackers resemble Sato. Do not bring Sato into the action."
+      "negativePrompt": "Do not let attackers resemble Sato. Do not bring Sato into the action. No shrine, temple, torii, or old wooden bridge architecture."
     },
     "scene-001-002-002-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -157,22 +157,22 @@
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
       "focusCharacterIds": ["sato-jogging"],
       "continuityNotes": [
-        "This is the Sato-part of the same turnaround-shrine incident as scene-002-002-001-sera.",
-        "Keep the same small waterside shrine steps and same spring light in both images."
+        "This is the Sato-part of the same riverside-turnaround incident as scene-002-002-001-sera.",
+        "Keep the same concrete riverside turnaround steps, retaining wall, and spring light in both images."
       ],
-      "promptSuffix": "Compose a quiet turnaround moment with Sato dominant near a small riverside shrine or stone steps, walking briefly and deciding to head back with a settled expression. If Sera appears, place her clearly apart from Sato among trees, shrine walls, or the upper path, distant but readable, never companion-like.",
-      "negativePrompt": "Do not show Sera openly accompanying Sato."
+      "promptSuffix": "Compose a quiet turnaround moment with Sato dominant near practical concrete riverside steps and a retaining wall at the turning point of the jog, walking briefly and deciding to head back with a settled expression. The setting should feel like a modern Tokyo embankment with steel railings, cherry blossoms, and river infrastructure, not a religious site. If Sera appears, place her clearly apart from Sato along the upper path, near the retaining wall, or by maintenance railings, distant but readable, never companion-like.",
+      "negativePrompt": "Do not show Sera openly accompanying Sato. No shrine, temple, torii, prayer hall, engawa, tatami, or religious ornament."
     },
     "scene-002-002-001-sera": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
       "focusCharacterIds": ["sera-jogging"],
       "continuityNotes": [
-        "This is the Sera-part of the same turnaround-shrine incident as scene-002-002-001-sato.",
-        "Keep the same shrine-side steps, same retaining wall, and same spring light as the paired image.",
+        "This is the Sera-part of the same riverside-turnaround incident as scene-002-002-001-sato.",
+        "Keep the same concrete riverside steps, same retaining wall, and same spring light as the paired image.",
         "Sato must remain an unaware background figure pausing or turning back, and must not look toward Sera or the incident."
       ],
-      "promptSuffix": "Create a covert shrine-side action image with Sera dominant as she disrupts observation gear or a spotter hidden above the turnaround point. Keep Sato smaller in the background, simply taking a walking break and unaware.",
-      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato aware of the intervention."
+      "promptSuffix": "Create a covert riverside-turnaround action image with Sera dominant as she disrupts observation gear or a spotter hidden above a modern embankment turnaround point. Use concrete steps, steel railings, retaining walls, cherry-blossom drift, and practical river infrastructure rather than any shrine or temple motifs. Keep Sato smaller in the background, simply taking a walking break and unaware.",
+      "negativePrompt": "Do not let any attacker resemble Sato. Do not make Sato aware of the intervention. No shrine, temple, torii, prayer hall, engawa, tatami, or religious ornament."
     },
     "scene-002-002-002-sato": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -263,10 +263,11 @@
       "focusCharacterIds": ["sato-jogging"],
       "continuityNotes": [
         "This is the Sato-part of the same breakfast-finale incident as scene-003-002-002-sera.",
-        "Keep the same apartment table, same bread and coffee, and same clean morning light in both images."
+        "Keep the same apartment table, same bread and coffee, and same clean morning light in both images.",
+        "The home must read as a modest modern apartment unit in a mid-rise Tokyo apartment building, not a detached house."
       ],
-      "promptSuffix": "Create a peaceful breakfast image with Sato dominant at his apartment table, coffee and fresh bread visible, clearly concluding that the morning jog was worthwhile. If Sera appears, place her clearly apart from Sato beyond the window line or distant exterior edge, distant but readable, never companion-like.",
-      "negativePrompt": "Do not make Sato aware of Sera or any threat."
+      "promptSuffix": "Create a peaceful breakfast image with Sato dominant at a compact apartment dining-kitchen table inside a modest mid-rise Tokyo apartment unit, coffee and fresh bread visible, clearly concluding that the morning jog was worthwhile. Use an urban apartment interior with a small dining area, practical kitchen counter, sliding or standard apartment window, and no private garden or wide detached-house living room. Prefer an angle that shows only Sato, the table, breakfast, and apartment light. Sera does not need to appear in this image; if she appears at all, keep her as a barely noticeable exterior presence far beyond the window line, never on a balcony and never readable as part of the room.",
+      "negativePrompt": "Do not make Sato aware of Sera or any threat. No detached house, no single-family home, no private garden, no large suburban kitchen, no cottage-like interior. Do not place Sera on a balcony, veranda, or in the room. Do not make Sera a visible secondary character in this image."
     },
     "scene-003-002-002-sera": {
       "referenceCharacterIds": ["sato-jogging", "sera-jogging"],
@@ -275,10 +276,11 @@
         "This is the Sera-part of the same breakfast-finale incident as scene-003-002-002-sato.",
         "Keep the same apartment exterior relationship and same bright morning calm as the paired image.",
         "Sato must remain an unaware background figure inside with bread and coffee, and must keep his attention on the table or window light rather than the incident.",
-        "Sera must keep her gaze on the final tail or escape path, never toward the camera."
+        "Sera must keep her gaze on the final tail or escape path, never toward the camera.",
+        "The setting must read as the narrow service lane and rear facade of a modern Tokyo apartment building, not a detached house yard."
       ],
-      "promptSuffix": "Create a restrained final-tail action image with Sera dominant outside the apartment block or near a side lane, stopping the last watcher before withdrawal. Keep Sato small inside the bright room with breakfast, unaware and content. Sera must not look toward the camera.",
-      "negativePrompt": "Do not let the final watcher resemble Sato. Do not show Sato helping, noticing, or making eye contact. Do not make Sera look toward the camera or viewer."
+      "promptSuffix": "Create a restrained final-tail action image with Sera dominant in a narrow service alley behind a modern mid-rise Tokyo apartment block, stopping the last watcher before withdrawal. Show rear apartment windows, exterior corridors or service doors, utility piping, and tight urban spacing rather than a yard or detached-house exterior. Keep Sato small inside a bright apartment room with breakfast, unaware and content. Sera must not look toward the camera.",
+      "negativePrompt": "Do not let the final watcher resemble Sato. Do not show Sato helping, noticing, or making eye contact. Do not make Sera look toward the camera or viewer. No detached house, no fenced yard, no porch, no suburban driveway, no private garden."
     }
   }
 }

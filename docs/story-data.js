@@ -5,7 +5,7 @@ window.STORY_DATA = {
   "genre": "現代スパイ日常ジョギングコメディ",
   "slug": "sato-graceful-jogging",
   "status": "reviewing_full_draft",
-  "updatedAt": "2026-03-13T13:44:25.304Z",
+  "updatedAt": "2026-03-13T14:49:20.797Z",
   "titleDisplayLines": [
     "おっさんサトーの気ままなジョギング",
     "",
@@ -13,7 +13,7 @@ window.STORY_DATA = {
   ],
   "titleImage": "./images/title/title-cover.webp",
   "titleImageAlt": "おっさんサトーの気ままなジョギング のタイトルビジュアル",
-  "generatedAt": "2026-03-13T13:44:25.308Z",
+  "generatedAt": "2026-03-13T14:49:20.799Z",
   "talkCount": 6,
   "sceneCount": 24,
   "scenes": [
