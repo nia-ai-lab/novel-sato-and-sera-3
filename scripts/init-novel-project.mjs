@@ -573,6 +573,41 @@ function buildManuscriptOverviewTemplate(options) {
 `;
 }
 
+function buildSeriesInheritanceTemplate(options) {
+  if (!isSatoSeries(options)) {
+    return `# Series Inheritance
+
+## Status
+- この作品は generic テンプレートで初期化された
+`;
+  }
+
+  return `# Series Inheritance
+
+## Inherited Canon
+- canonical portraits: project/assets/characters/sato.png / project/assets/characters/sera.png
+- fixed canon source: soudoku-novel-builder/references/ossan-sato-series-canon.md
+- fixed structure source: soudoku-novel-builder/references/ossan-sato-series-structure.md
+- living world source: soudoku-novel-builder/references/ossan-sato-series-living-world.md
+- change log source: soudoku-novel-builder/references/ossan-sato-series-change-log.md
+
+## Canon Snapshot At Project Start
+- 固定人物設定を継承する
+- 国家機密の裏設定を継承する
+- 3章6話12節 / 1話1事件 / 第1節サトー / 第2節セラ を継承する
+- living world に登録済みの地理と recurring place を継承する
+
+## Newly Introduced This Installment
+- ここに今回新しく出た設定を書く
+
+## Candidate For Series Promotion
+- ここに「今後も使いたいので series canon へ昇格候補」の設定を書く
+
+## Promoted To Series Canon In This Installment
+- ここに今回 canon へ昇格させた設定を書く
+`;
+}
+
 function buildFullNovelTemplate(title, options) {
   if (isSatoSeries(options)) {
     return `# ${title}
@@ -888,6 +923,15 @@ async function main() {
     )
   ) {
     created.push("project/manuscript/00_manuscript_overview.md");
+  }
+
+  if (
+    await writeFileIfMissing(
+      path.join(rootDir, "project", "06_series_inheritance.md"),
+      buildSeriesInheritanceTemplate(options),
+    )
+  ) {
+    created.push("project/06_series_inheritance.md");
   }
 
   if (
