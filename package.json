@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "init:project": "node scripts/init-novel-project.mjs",
+    "bootstrap:blank": "node scripts/bootstrap-sato-series-template.mjs",
     "check:project": "node scripts/check-project-state.mjs",
     "build:web": "node scripts/build-web-novel.mjs",
     "build:episode-manifest": "node scripts/build-episode-image-manifest.mjs",
